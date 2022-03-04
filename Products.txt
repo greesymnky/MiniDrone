@@ -1,0 +1,8 @@
+Products links are in video description--
+1. 8520 brushed motors and prop (4x)
+2. Si2302 mosfet (5x)
+3. 716 brushed motor (1x)
+4. Nodemcu
+5. MPU6050
+6. Pencils
+7. 500 mAh lipo 3.7v
